@@ -4,10 +4,12 @@ This is a project for a bachelor degree. Occlusion evaluation based on keypoints
 The baseline of the project is [AlphePose-pytorch](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch)
 
 ## Environment
--Ubuntu 16.04/18.04.
--python 3.5+.
--Pytorch 1.0.0+.
--other dependencies.
+
+- Ubuntu 16.04/18.04.
+- python 3.5+.
+- Pytorch 1.0.0+.
+- other dependencies.
+
 
 ## Installation
 
