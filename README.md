@@ -15,7 +15,7 @@ The baseline of the project is [AlphePose-pytorch](https://github.com/MVIG-SJTU/
 
 1. Get the code.
   ```Shell
-  git clone https://github.com/PanXF-HUST/occlusion_eval/edit/master
+  git clone https://github.com/PanXF-HUST/occlusion_eval
   ```
 
 2. Install [pytorch 1.0.0](https://github.com/pytorch/pytorch)and the corresponding version of torchvision and other dependencies.
